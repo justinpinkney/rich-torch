@@ -7,7 +7,7 @@ authors = ["Justin Pinkney <justinpinkney@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 rich = "^10.16.2"
-torch = "^1.10.1"
+torch = "*"
 
 [tool.poetry.dev-dependencies]
 pytest = "^6.2.5"
